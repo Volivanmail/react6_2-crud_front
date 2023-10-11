@@ -1,7 +1,3 @@
-## GitHub Pages
-
-https://volivanmail.github.io/react6_2-crud_front/
-
 ## Сервер
 
 https://github.com/Volivanmail/react6_2-crud_serv
